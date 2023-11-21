@@ -39,6 +39,8 @@ public abstract class Persona {
      * Devuelve el nombre
      * @return 
      */
+
+    //hacemos los setter y getters
     public String getNombre() {
         return nombre;
     }
